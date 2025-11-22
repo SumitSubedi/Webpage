@@ -1,0 +1,31 @@
+html{
+    background-color: skyblue;
+    color:black;
+   
+
+}
+#header{
+    max-width:max-content;
+    margin-bottom:10px;
+    border: 1px solid black;
+    padding:20px;
+    
+    background-color: yellow;
+
+}
+#middle{
+    max-width: max-content;
+     margin-bottom:10px;
+     border:1px solid black;
+     padding:20px;
+    
+    background-color: white;
+}
+#footer{
+    max-width: max-content;
+     margin-bottom:10px;
+     border:1px solid black;
+     padding:20px;
+    
+    background-color: blanchedalmond;
+}
